@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986608038422",
+    "project_id": "wothoq-d4fab",
+    "storage_bucket": "wothoq-d4fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986608038422:android:3496becab21893ebda3b37",
+        "android_client_info": {
+          "package_name": "com.wothoq.wothoq_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986608038422-kri3glkdkhjp1kdra02jvfg331cvi9h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Ym2gNj6IAb6u8ml4Y0KpRKLwZFl6bAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986608038422-kri3glkdkhjp1kdra02jvfg331cvi9h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
